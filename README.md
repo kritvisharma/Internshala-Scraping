@@ -10,7 +10,7 @@ mkdir posts
 ```
 To run the program, run the following in the terminal: 
 ```
-python3 scraping.py
+python scraping.py
 ```
 
 Now, in the terminal, enter the preferred location and obtain the filtered results for internships (the internships are filtered to only display internships that are atmost 1 day old)
