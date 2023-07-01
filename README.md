@@ -6,4 +6,4 @@ A small web scraping project made to scrap Internshala for an internship in "Blo
 
 Clone the repository. Once cloned, within the directory create a folder called "posts" using the command 
 
-  mkdir posts
+mkdir posts
