@@ -8,3 +8,7 @@ Clone the repository. Once cloned, within the directory create a folder called "
 ```
 mkdir posts
 ```
+To run the program, run the following in the terminal: 
+```
+python3 scraping.py
+```
