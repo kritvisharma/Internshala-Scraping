@@ -1,6 +1,6 @@
 # Internshala-Scraping
 
-A small web scraping project made using the BeautifulSoup library in Python to scrap Internshala for an internship in "Blockchain" with the feature of filtering internships on the basis of location as well as date of posting. The program scraps the website every 10 minutes for updates!
+A small web scraping project made using the BeautifulSoup library in Python to scrap Internshala for an internship in "Blockchain" with the feature of filtering on the basis of location as well as date of posting. The program scraps the website every 10 minutes for updates!
 
 ## How to use 
 
